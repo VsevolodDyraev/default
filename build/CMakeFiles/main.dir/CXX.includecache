@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/text.h
+iostream
+-
+string
+-
+stack
+-
+
+/usr/coding/cpp/lab4_polinom/main.cpp
+iostream
+-
+text.h
+/usr/coding/cpp/lab4_polinom/text.h
+cstdlib
+-
+

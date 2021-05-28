@@ -1,0 +1,9 @@
+/usr/coding/cpp/lab4_polinom/build/CMakeFiles/rebuild_cache.dir
+/usr/coding/cpp/lab4_polinom/build/CMakeFiles/edit_cache.dir
+/usr/coding/cpp/lab4_polinom/build/CMakeFiles/main.dir
+/usr/coding/cpp/lab4_polinom/build/src/CMakeFiles/rebuild_cache.dir
+/usr/coding/cpp/lab4_polinom/build/src/CMakeFiles/edit_cache.dir
+/usr/coding/cpp/lab4_polinom/build/src/CMakeFiles/text.dir
+/usr/coding/cpp/lab4_polinom/build/test/CMakeFiles/rebuild_cache.dir
+/usr/coding/cpp/lab4_polinom/build/test/CMakeFiles/edit_cache.dir
+/usr/coding/cpp/lab4_polinom/build/test/CMakeFiles/runTests.dir
