@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/list.hpp
+iostream
+-
+
+/usr/coding/cpp/cikl/src/list.cpp
+list.hpp
+/usr/coding/cpp/cikl/src/list.hpp
+

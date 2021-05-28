@@ -1,0 +1,9 @@
+/usr/coding/cpp/cikl/build/CMakeFiles/rebuild_cache.dir
+/usr/coding/cpp/cikl/build/CMakeFiles/edit_cache.dir
+/usr/coding/cpp/cikl/build/CMakeFiles/main.dir
+/usr/coding/cpp/cikl/build/src/CMakeFiles/rebuild_cache.dir
+/usr/coding/cpp/cikl/build/src/CMakeFiles/edit_cache.dir
+/usr/coding/cpp/cikl/build/src/CMakeFiles/list.dir
+/usr/coding/cpp/cikl/build/test/CMakeFiles/rebuild_cache.dir
+/usr/coding/cpp/cikl/build/test/CMakeFiles/edit_cache.dir
+/usr/coding/cpp/cikl/build/test/CMakeFiles/runTests.dir
