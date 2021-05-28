@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/usr/coding/cpp/roman/include/roman.hpp
+string
+-
+vector
+-
+
+/usr/coding/cpp/roman/main.cpp
+iostream
+-
+include/roman.hpp
+/usr/coding/cpp/roman/include/roman.hpp
+

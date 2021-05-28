@@ -1,0 +1,9 @@
+/usr/coding/cpp/roman/build/CMakeFiles/rebuild_cache.dir
+/usr/coding/cpp/roman/build/CMakeFiles/edit_cache.dir
+/usr/coding/cpp/roman/build/CMakeFiles/main.dir
+/usr/coding/cpp/roman/build/src/CMakeFiles/rebuild_cache.dir
+/usr/coding/cpp/roman/build/src/CMakeFiles/edit_cache.dir
+/usr/coding/cpp/roman/build/src/CMakeFiles/src.dir
+/usr/coding/cpp/roman/build/test/CMakeFiles/rebuild_cache.dir
+/usr/coding/cpp/roman/build/test/CMakeFiles/edit_cache.dir
+/usr/coding/cpp/roman/build/test/CMakeFiles/runTests.dir
