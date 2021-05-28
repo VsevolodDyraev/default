@@ -2,9 +2,7 @@
 
 using namespace std;
 
-  
-// Эта функция заполняет глубину i-го элемента в parent []. Глубина
-// заполнено в глубину [i].
+
 
 void fillDepth(int parent[], int i, int deep[])
 
