@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/usr/coding/cpp/hight_three/test/test_default.cpp
+gtest/gtest.h
+-
+
+/usr/coding/cpp/hight_three/test/test_main.cpp
+gtest/gtest.h
+-
+test_default.cpp
+/usr/coding/cpp/hight_three/test/test_default.cpp
+

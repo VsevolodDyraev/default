@@ -1,0 +1,6 @@
+/usr/coding/cpp/hight_three/build/CMakeFiles/rebuild_cache.dir
+/usr/coding/cpp/hight_three/build/CMakeFiles/edit_cache.dir
+/usr/coding/cpp/hight_three/build/CMakeFiles/main.dir
+/usr/coding/cpp/hight_three/build/test/CMakeFiles/rebuild_cache.dir
+/usr/coding/cpp/hight_three/build/test/CMakeFiles/edit_cache.dir
+/usr/coding/cpp/hight_three/build/test/CMakeFiles/runTests.dir
