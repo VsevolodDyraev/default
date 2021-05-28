@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/island.hpp
+iostream
+-
+
+/usr/coding/cpp/island/main.cpp
+iostream
+-
+island.hpp
+/usr/coding/cpp/island/island.hpp
+

@@ -1,0 +1,8 @@
+/usr/coding/cpp/island/build/CMakeFiles/rebuild_cache.dir
+/usr/coding/cpp/island/build/CMakeFiles/edit_cache.dir
+/usr/coding/cpp/island/build/CMakeFiles/main.dir
+/usr/coding/cpp/island/build/src/CMakeFiles/rebuild_cache.dir
+/usr/coding/cpp/island/build/src/CMakeFiles/edit_cache.dir
+/usr/coding/cpp/island/build/test/CMakeFiles/rebuild_cache.dir
+/usr/coding/cpp/island/build/test/CMakeFiles/edit_cache.dir
+/usr/coding/cpp/island/build/test/CMakeFiles/runTests.dir
